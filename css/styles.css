@@ -117,17 +117,21 @@ header {
   width: 200px;
   height: 100px;
   color:#6beb34;
+  display: inline-block;
 }
 
-
+.top{
+  margin-top: 35px;
+}
 
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/joanna-kosinska-unsplash.jpg);
+  background-image: url(images/project-women-tech.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
+    background-color: darkBlue;
 }
 .education p {
   width: 60%;
