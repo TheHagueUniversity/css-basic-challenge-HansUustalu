@@ -75,7 +75,7 @@ h3 {
 /* Profile
 ------------------------------------*/
 header {
-  background: #2F3061;
+  background: #0052cc;
   color: #F7FFF7;
 }
 
@@ -83,7 +83,7 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #F7FFF7;
+  background: #33ff33;
 }
 .projects a {
   color: #2F3061;
@@ -112,7 +112,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: red;
   color: #6beb34;
   width: 200px;
   height: 100px;
@@ -131,7 +131,7 @@ header {
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
-    background-color: darkBlue;
+  background-color: darkBlue;
 }
 .education p {
   width: 60%;
@@ -151,4 +151,15 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
+}
+.color{
+  color: #53ff1a;
+}
+.color2{
+  color:#00cc99;
+}
+.Pictures{
+  color:green;
+  font-size: 60px;
+  margin-left: 70px;
 }
