@@ -43,7 +43,7 @@ h2 {
   font-size: 45px;
 }
 h1, h2 {
-  font-family: 'Caveat', cursive;
+  font-family: 'Abril Fatface', cursive;
   font-weight: 400;
   margin: 0;
 }
@@ -52,6 +52,7 @@ h1, h2 {
   width: 85%;
   margin: 0 auto;
   padding: 60px 0;
+  color: #ffff00;
 }
 h3 {
   margin-bottom: 0;
@@ -105,11 +106,17 @@ header {
   margin-top: 0;
 }
 
-
+.btn{
+  color:#00cc99;
+}
 /* Work Experience
 ------------------------------------*/
 .work-experience {
   background: #A1C6D7;
+  color: #6beb34;
+  width: 200px;
+  height: 100px;
+  color:#6beb34;
 }
 
 
